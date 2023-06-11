@@ -6,11 +6,7 @@
 
 <br/>
 
-Link do Deploy do Projeto:
-<br/>
-Link do Deploy da API:
-<br/>
-Link do repositório do Frontend:
+Link do repositório do Frontend: https://github.com/raphaelslima/interface-todo
 
 <br/>
 
