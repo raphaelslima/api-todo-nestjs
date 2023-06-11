@@ -8,7 +8,7 @@
 
 Link do Deploy do Projeto:
 <br/>
-Link do Deploy API:
+Link do Deploy da API:
 <br/>
 Link do repositório Frontend:
 
